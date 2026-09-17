@@ -3,7 +3,7 @@ let mints = document.getElementById("mints");
 let second = document.getElementById("second");
 let pm_Am = document.getElementById("pm_Am");
 let getDayS = document.getElementById("days");
-let dayElements = document.querySelectorAll("#mon, #tue, #wed, #thu, #fri, #sat, #sun");
+let dayElements = document.querySelectorAll("#sun, #mon, #tue, #wed, #thu, #fri, #sat");
 
 
 
